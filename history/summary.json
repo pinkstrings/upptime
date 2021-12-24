@@ -22,17 +22,17 @@
     "url": "https://tomshani.com",
     "icon": "https://favicons.githubusercontent.com/tomshani.com",
     "slug": "tom-shani-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 187,
-    "timeDay": 187,
-    "timeWeek": 187,
-    "timeMonth": 187,
-    "timeYear": 187,
+    "time": 206,
+    "timeDay": 206,
+    "timeWeek": 206,
+    "timeMonth": 206,
+    "timeYear": 206,
     "dailyMinutesDown": {}
   }
 ]
