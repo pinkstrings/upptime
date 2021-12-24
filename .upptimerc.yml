@@ -3,10 +3,14 @@ owner: pinkstrings
 repo: upptime
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: TomShani.com
+  - name: pinkstrings.synology.me
+    url: https://pinkstrings.synology.me:5001
+    maxResponseTime: 3000
+  - name: tomshani.com
     url: https://tomshani.com
+    maxResponseTime: 3000
+   
 status-website:
   baseUrl: /upptime # where "repo" is your repository name
   name: UppTime
+  theme: dark
