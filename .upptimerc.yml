@@ -7,3 +7,5 @@ sites:
     url: https://www.google.com
   - name: TomShani.com
     url: https://tomshani.com
+  - name: fake
+    url: https://foobarasdfa.com
