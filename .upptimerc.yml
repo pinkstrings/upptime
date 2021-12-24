@@ -7,8 +7,6 @@ sites:
     url: https://www.google.com
   - name: TomShani.com
     url: https://tomshani.com
-  - name: fake
-    url: https://foobarasdfa.com
 status-website:
   baseUrl: /upptime # where "repo" is your repository name
   name: UppTime
