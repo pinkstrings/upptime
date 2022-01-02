@@ -4,10 +4,10 @@
     "url": "https://pinkstrings.synology.me:5001",
     "icon": "https://favicons.githubusercontent.com/pinkstrings.synology.me",
     "slug": "pinkstrings-synology-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 530,
@@ -15,14 +15,16 @@
     "timeWeek": 602,
     "timeMonth": 530,
     "timeYear": 530,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-02": 1
+    }
   },
   {
     "name": "tomshani.com",
     "url": "https://tomshani.com",
     "icon": "https://favicons.githubusercontent.com/tomshani.com",
     "slug": "tomshani-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 91,
     "timeMonth": 111,
     "timeYear": 111,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-02": 0
+    }
   }
 ]
