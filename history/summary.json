@@ -4,7 +4,7 @@
     "url": "https://pinkstrings.synology.me:5001",
     "icon": "https://favicons.githubusercontent.com/pinkstrings.synology.me",
     "slug": "pinkstrings-synology-me",
-    "status": "up",
+    "status": "down",
     "uptime": "98.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.46%",
@@ -16,6 +16,7 @@
     "timeMonth": 444,
     "timeYear": 425,
     "dailyMinutesDown": {
+      "2022-09-08": 0,
       "2022-09-03": 125,
       "2022-09-02": 231,
       "2022-08-23": 30,
