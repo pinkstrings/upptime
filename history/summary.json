@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/pinkstrings.synology.me.ico",
     "slug": "pinkstrings-synology-me",
     "status": "up",
-    "uptime": "98.60%",
+    "uptime": "98.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.27%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "98.54%",
-    "time": 428,
-    "timeDay": 647,
-    "timeWeek": 422,
-    "timeMonth": 415,
+    "time": 429,
+    "timeDay": 439,
+    "timeWeek": 414,
+    "timeMonth": 414,
     "timeYear": 428,
     "dailyMinutesDown": {
       "2023-01-12": 74,
@@ -62,15 +62,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tomshani.com.ico",
     "slug": "tomshani-com",
     "status": "up",
-    "uptime": "96.50%",
+    "uptime": "96.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.44%",
-    "time": 129,
-    "timeDay": 50,
-    "timeWeek": 127,
-    "timeMonth": 117,
+    "uptimeYear": "96.72%",
+    "time": 128,
+    "timeDay": 99,
+    "timeWeek": 90,
+    "timeMonth": 118,
     "timeYear": 129,
     "dailyMinutesDown": {
       "2022-04-22": 24,
@@ -91,8 +91,7 @@
       "2022-03-08": 1046,
       "2022-02-20": 16,
       "2022-02-12": 55,
-      "2022-02-02": 71,
-      "2022-01-17": 1003
+      "2022-02-02": 71
     }
   }
 ]
