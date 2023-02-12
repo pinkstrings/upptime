@@ -11,9 +11,9 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "98.55%",
     "time": 429,
-    "timeDay": 592,
-    "timeWeek": 458,
-    "timeMonth": 428,
+    "timeDay": 442,
+    "timeWeek": 469,
+    "timeMonth": 426,
     "timeYear": 426,
     "dailyMinutesDown": {
       "2023-02-02": 26,
@@ -52,8 +52,7 @@
       "2022-04-16": 31,
       "2022-03-21": 71,
       "2022-03-08": 59,
-      "2022-02-20": 17,
-      "2022-02-12": 55
+      "2022-02-20": 17
     }
   },
   {
@@ -62,15 +61,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tomshani.com.ico",
     "slug": "tomshani-com",
     "status": "up",
-    "uptime": "96.72%",
+    "uptime": "96.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.92%",
     "time": 127,
-    "timeDay": 105,
-    "timeWeek": 100,
-    "timeMonth": 103,
+    "timeDay": 99,
+    "timeWeek": 99,
+    "timeMonth": 102,
     "timeYear": 126,
     "dailyMinutesDown": {
       "2022-04-22": 24,
@@ -89,8 +88,7 @@
       "2022-03-10": 1440,
       "2022-03-09": 1440,
       "2022-03-08": 1046,
-      "2022-02-20": 16,
-      "2022-02-12": 55
+      "2022-02-20": 16
     }
   }
 ]
