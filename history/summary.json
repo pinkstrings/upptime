@@ -6,15 +6,15 @@
     "slug": "pinkstrings-synology-me",
     "status": "up",
     "uptime": "98.57%",
-    "uptimeDay": "78.05%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "91.51%",
     "uptimeMonth": "97.99%",
     "uptimeYear": "98.39%",
     "time": 428,
-    "timeDay": 433,
-    "timeWeek": 404,
-    "timeMonth": 425,
-    "timeYear": 427,
+    "timeDay": 403,
+    "timeWeek": 384,
+    "timeMonth": 422,
+    "timeYear": 428,
     "dailyMinutesDown": {
       "2023-02-18": 316,
       "2023-02-16": 344,
@@ -54,8 +54,7 @@
       "2022-04-21": 18,
       "2022-04-16": 31,
       "2022-03-21": 71,
-      "2022-03-08": 59,
-      "2022-02-20": 17
+      "2022-03-08": 59
     }
   },
   {
@@ -70,8 +69,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.93%",
     "time": 127,
-    "timeDay": 150,
-    "timeWeek": 94,
+    "timeDay": 50,
+    "timeWeek": 86,
     "timeMonth": 103,
     "timeYear": 125,
     "dailyMinutesDown": {
@@ -90,8 +89,7 @@
       "2022-03-11": 1440,
       "2022-03-10": 1440,
       "2022-03-09": 1440,
-      "2022-03-08": 1046,
-      "2022-02-20": 16
+      "2022-03-08": 1046
     }
   }
 ]
