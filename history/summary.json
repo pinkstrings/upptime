@@ -6,14 +6,14 @@
     "slug": "pinkstrings-synology-me",
     "status": "up",
     "uptime": "97.80%",
-    "uptimeDay": "95.69%",
+    "uptimeDay": "98.54%",
     "uptimeWeek": "99.01%",
     "uptimeMonth": "85.83%",
     "uptimeYear": "97.39%",
     "time": 428,
-    "timeDay": 393,
-    "timeWeek": 380,
-    "timeMonth": 420,
+    "timeDay": 399,
+    "timeWeek": 405,
+    "timeMonth": 416,
     "timeYear": 432,
     "dailyMinutesDown": {
       "2023-03-12": 26,
@@ -74,16 +74,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tomshani.com.ico",
     "slug": "tomshani-com",
     "status": "up",
-    "uptime": "96.94%",
+    "uptime": "96.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.96%",
+    "uptimeYear": "98.23%",
     "time": 126,
-    "timeDay": 50,
-    "timeWeek": 84,
-    "timeMonth": 102,
-    "timeYear": 122,
+    "timeDay": 265,
+    "timeWeek": 109,
+    "timeMonth": 107,
+    "timeYear": 123,
     "dailyMinutesDown": {
       "2022-04-22": 24,
       "2022-04-21": 17,
@@ -94,8 +94,7 @@
       "2022-03-22": 1173,
       "2022-03-21": 71,
       "2022-03-15": 1046,
-      "2022-03-14": 1440,
-      "2022-03-13": 1440
+      "2022-03-14": 1440
     }
   }
 ]
