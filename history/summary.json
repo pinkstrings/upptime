@@ -9,11 +9,11 @@
     "uptimeDay": "78.97%",
     "uptimeWeek": "97.00%",
     "uptimeMonth": "99.05%",
-    "uptimeYear": "97.12%",
+    "uptimeYear": "97.13%",
     "time": 501,
-    "timeDay": 370,
+    "timeDay": 437,
     "timeWeek": 396,
-    "timeMonth": 611,
+    "timeMonth": 595,
     "timeYear": 525,
     "dailyMinutesDown": {
       "2024-04-05": 303,
@@ -46,8 +46,7 @@
       "2023-06-25": 334,
       "2023-06-20": 487,
       "2023-06-06": 79,
-      "2023-06-05": 53,
-      "2023-04-07": 19
+      "2023-06-05": 53
     }
   },
   {
@@ -56,15 +55,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tomshani.com.ico",
     "slug": "tomshani-com",
     "status": "up",
-    "uptime": "98.37%",
+    "uptime": "98.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 112,
-    "timeDay": 144,
-    "timeWeek": 120,
-    "timeMonth": 104,
+    "timeDay": 70,
+    "timeWeek": 109,
+    "timeMonth": 102,
     "timeYear": 113,
     "dailyMinutesDown": {}
   }
