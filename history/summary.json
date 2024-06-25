@@ -4,8 +4,8 @@
     "url": "https://pinkstrings.synology.me:5001",
     "icon": "https://icons.duckduckgo.com/ip3/pinkstrings.synology.me.ico",
     "slug": "pinkstrings-synology-me",
-    "status": "up",
-    "uptime": "97.74%",
+    "status": "down",
+    "uptime": "97.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
@@ -16,6 +16,7 @@
     "timeMonth": 472,
     "timeYear": 529,
     "dailyMinutesDown": {
+      "2024-06-25": 0,
       "2024-05-28": 26,
       "2024-04-16": 92,
       "2024-04-15": 298,
