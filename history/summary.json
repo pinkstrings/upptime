@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pinkstrings.synology.me.ico",
     "slug": "pinkstrings-synology-me",
     "status": "down",
-    "uptime": "96.80%",
+    "uptime": "96.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "70.54%",
-    "uptimeYear": "94.79%",
-    "time": 511,
+    "uptimeMonth": "67.25%",
+    "uptimeYear": "94.52%",
+    "time": 512,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 524,
+    "timeMonth": 533,
     "timeYear": 529,
     "dailyMinutesDown": {
-      "2024-07-04": 5,
+      "2024-07-05": 5,
+      "2024-07-04": 1440,
       "2024-07-03": 1440,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
@@ -53,8 +54,7 @@
       "2023-09-02": 102,
       "2023-08-06": 63,
       "2023-08-05": 62,
-      "2023-08-01": 58,
-      "2023-07-06": 67
+      "2023-08-01": 58
     }
   },
   {
@@ -69,8 +69,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 132,
-    "timeWeek": 144,
+    "timeDay": 89,
+    "timeWeek": 141,
     "timeMonth": 117,
     "timeYear": 114,
     "dailyMinutesDown": {}
