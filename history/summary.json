@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tomshani.com.ico",
     "slug": "tomshani-com",
     "status": "up",
-    "uptime": "99.21%",
+    "uptime": "99.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 133,
-    "timeDay": 147,
-    "timeWeek": 143,
-    "timeMonth": 125,
-    "timeYear": 132,
+    "timeDay": 546,
+    "timeWeek": 201,
+    "timeMonth": 139,
+    "timeYear": 133,
     "dailyMinutesDown": {}
   }
 ]
